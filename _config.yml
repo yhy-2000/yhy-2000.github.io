@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yutao Zhu"
+title                    : "Huaying Yuan"
 description              : ""
-repository               : "daod.github.io"
+repository               : "yhy-2000.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yutao Zhu (朱余韬)"
+  name             : "Huaying Yuan (苑华莹)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Postdoc @ GSAI, RUC"
+  bio              : "PhD Candidate @ GSAI, RUC"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=tBqVOWsAAAAJ&hl=en"
-  email            : "yutaozhu94@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=3Q9nWMgAAAAJ&hl=en&oi=ao"
+  email            : "hyyuan@ruc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DaoD"
+  github           : "yhy-2000"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/71/9704-1.html"
-  orcid            : "https://orcid.org/0000-0002-9432-3251"
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
