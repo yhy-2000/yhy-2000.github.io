@@ -21,8 +21,7 @@ redirect_from:
 
 # 📢 News
 
-- **[2025.06]**: Starting this September, I’ll be a visiting student at 🇮🇹**University of Trento**, supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/).  
-  <span style="color:#3a86ff">Looking forward to new collaborations and challenges!</span> 🚀
+- **[2025.06]**: Starting this September, I’ll be a visiting student at 🇮🇹**University of Trento**, supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/). Looking forward to new collaborations and challenges! 🚀
 
 - **[2025.06]**: Released [**VideoDeepResearch**](https://arxiv.org/pdf/2506.10821), a novel framework combining a text-only LLM and a multi-modal toolkit to beat SOTA MLLMs.  🔗 [Code on GitHub](https://github.com/yhy-2000/VideoDeepResearch)
 
