@@ -42,7 +42,7 @@ redirect_from:
 
 ### - Renmin University of China  (2022.09 – 2027.06 (Expected)) 
 - **Ph.D. in Artificial Intelligence**, Supervisor: Prof. Zhicheng Dou, Prof. Ji-Rong Wen  
-- GPA: **3.87/4.0** | Key Courses: Intelligent Information Retrieval (A), Machine Learning (A)
+- GPA: **3.87/4.0**, Key Courses: Intelligent Information Retrieval (A), Machine Learning (A)
 
 ###  - Nankai University  (2018.09 – 2022.06) 
 - **B.S. in Computer Science**, GPA: **91.64/100**, Rank: **2/116**
