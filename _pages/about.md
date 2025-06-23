@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-<span style="font-style: italic; color: #6a994e; font-size: 16px;">Life is short, just have fun. 🤪</span>
+<span style="font-style: italic; color: #6a994e; font-size: 16px;">Life is short, just have fun.</span> 🤪
 
 
 
