@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Huaying Yuan(苑华莹)"
+  name             : "Huaying Yuan"
+  name             : "苑华莹"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD Candidate @ GSAI, RUC"
   location         : "Beijing, China"
