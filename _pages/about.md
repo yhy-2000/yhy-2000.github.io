@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 💃🏻 <span style="color:#2b7a78">About Me</span>
+# 💃🏻 About Me
 
 - 🎓 I am a **Ph.D. candidate** at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), supervised by Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and Prof. [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ).  
 - 🔬 Currently, I am a **research intern** at **Beijing Academy of Artificial Intelligence (BAAI)**, mentored by [Zheng Liu](https://zhengliu101.github.io/). I sincerely appreciate their meticulous and insightful guidance~ 
@@ -19,7 +19,7 @@ redirect_from:
 
 ---
 
-# 📢 <span style="color:#3a86ff">News</span>
+# 📢 News
 
 - **[2025.06]**: Starting this September, I’ll be a visiting student at 🇮🇹**University of Trento**, supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/).  
   <span style="color:#3a86ff">Looking forward to new collaborations and challenges!</span> 🚀
@@ -38,7 +38,7 @@ redirect_from:
 
 ---
 
-# 🎓 <span style="color:#6a994e">Education</span>
+# 🎓 Education
 
 ### - Renmin University of China  (2022.09 – 2027.06 (Expected)) 
 - **Ph.D. in Artificial Intelligence**, Supervisor: Prof. Zhicheng Dou, Prof. Ji-Rong Wen  
@@ -50,7 +50,7 @@ redirect_from:
 
 ---
 
-# 📚 <span style="color:#ef476f">Publications</span>
+# 📚 Publications
 
 
 ### - **VideoDeepResearch: Long Video Understanding With Agentic Tool Using** | [Paper]([https://arxiv.org/abs/2503.09149](https://arxiv.org/pdf/2506.10821)) | [GitHub](https://github.com/yhy-2000/VideoDeepResearch) | *Preprint*
@@ -90,7 +90,7 @@ S Xiao*, Y Wang*, J Zhou*, **H Yuan***, X Xing, R Yan, S Wang, T Huang, Z Liu
 
 ---
 
-# 💼 <span style="color:#6c757d">Experiences</span>
+# 💼 Experiences
 
 - *2024.12 – Present*, **Research Intern**, BAAI  
   Supervised by [Zheng Liu](https://zhengliu101.github.io/)
@@ -100,7 +100,7 @@ S Xiao*, Y Wang*, J Zhou*, **H Yuan***, X Xing, R Yan, S Wang, T Huang, Z Liu
 
 ---
 
-# 🏆 <span style="color:#ff9f1c">Competition</span>
+# 🏆 Competition
 
 - 🥈 **ICPC Asia Shenyang** – Silver Medal  
 - 🥉 **ICPC Asia Kunming** – Bronze Medal  
@@ -108,7 +108,7 @@ S Xiao*, Y Wang*, J Zhou*, **H Yuan***, X Xing, R Yan, S Wang, T Huang, Z Liu
 
 ---
 
-# 🎖 <span style="color:#118ab2">Scholarships</span>
+# 🎖 Scholarships
 
 - 🥇 First-Class Scholarship, Gaoling School of AI – *2022.12*  
 - 🥇 First-Class Scholarship (Top 5%), Nankai University – *2021.12*, *2020.12*  
