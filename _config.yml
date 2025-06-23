@@ -22,11 +22,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Huaying Yuan"
-  name_ch             : "苑华莹"
+  employer         : "苑华莹"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD Candidate @ GSAI, RUC"
   location         : "Beijing, China"
-  employer         :
+  
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3Q9nWMgAAAAJ&hl=en&oi=ao"
   email            : "hyyuan@ruc.edu.cn"
