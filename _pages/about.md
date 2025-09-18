@@ -24,7 +24,7 @@ redirect_from:
 
 # 📢 News
 
-- **[2025.09]**: [**MomentSeeker**] was accepted at **NIPS 2025** 🎉🎉 Thanks to all co-authors!!
+- **[2025.09]**: [**MomentSeeker**](https://arxiv.org/abs/2502.12558) was accepted at **NIPS 2025** 🎉🎉 Thanks to all co-authors!!
 
 - **[2025.06]**: Starting this September, I’ll be a visiting student at 🇮🇹**University of Trento**, supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/). Looking forward to new collaborations and challenges! 🚀
 
