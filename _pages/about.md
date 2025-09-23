@@ -24,7 +24,7 @@ redirect_from:
 
 # 📢 News
 
-- **[2025.09]**: [**MomentSeeker**](https://arxiv.org/abs/2502.12558) was accepted at **NIPS 2025** 🎉🎉 Thanks to all co-authors!!
+- **[2025.09]**: Paper [**MomentSeeker**](https://arxiv.org/abs/2502.12558) accepted at **NIPS 2025** 🎉🎉 Thanks to all co-authors!!
 
 - **[2025.06]**: Starting this September, I’ll be a visiting student at 🇮🇹**University of Trento**, supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/). Looking forward to new collaborations and challenges! 🚀
 
@@ -36,9 +36,9 @@ redirect_from:
 
 - **[2025.02]**: Released [**MomentSeeker**](https://arxiv.org/abs/2502.12558), a task-oriented benchmark for long-video moment retrieval.
 
-- **[2024.11]**: [**FineRAG**](https://aclanthology.org/2025.coling-main.741/) accepted at **COLING 2024** 🥳
+- **[2024.11]**: Paper [**FineRAG**](https://aclanthology.org/2025.coling-main.741/) accepted at **COLING 2024** 🥳
 
-- **[2023.08]**: [**VILE**](https://dl.acm.org/doi/10.1145/3583780.3615107) accepted at **CIKM 2023** 🥳
+- **[2023.08]**: Paper [**VILE**](https://dl.acm.org/doi/10.1145/3583780.3615107) accepted at **CIKM 2023** 🥳
 
 ---
 
