@@ -70,7 +70,7 @@ redirect_from:
 
 ---
 
-### - **MomentSeeker: A Comprehensive Benchmark for Long Video Moment Retrieval**  | [Paper](https://arxiv.org/abs/2502.12558) | *Preprint*
+### - **MomentSeeker: A Comprehensive Benchmark for Long Video Moment Retrieval**  | [Paper](https://arxiv.org/abs/2502.12558) | *NIPS 2025*
 **H Yuan**, J Ni, Y Wang, J Zhou, Z Liang, Z Liu, Z Cao, Z Dou, JR Wen  
 > Introduces a benchmark with 500s+ videos and diverse tasks; includes an MLLM retriever fine-tuned on synthetic data.
 
