@@ -57,7 +57,7 @@ redirect_from:
 # 📚 Publications
 
 
-### - **VideoDeepResearch: Long Video Understanding With Agentic Tool Using** | [Paper]([https://arxiv.org/abs/2503.09149](https://arxiv.org/pdf/2506.10821)) | [GitHub](https://github.com/yhy-2000/VideoDeepResearch) | *Preprint*
+### - **VideoExplorer: Think With Videos For Agentic Long-Video Understanding** | [Paper]([https://arxiv.org/abs/2503.09149](https://arxiv.org/pdf/2506.10821)) | [GitHub](https://github.com/yhy-2000/VideoDeepResearch) | *Preprint*
 
 **H Yuan**, Z Liu, J Zhou, H Qian, JR Wen, Z Dou
 
