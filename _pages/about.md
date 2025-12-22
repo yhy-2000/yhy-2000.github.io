@@ -40,18 +40,6 @@ redirect_from:
 
 ---
 
-# 🎓 Education
-
-### - Renmin University of China  (2022.09 – 2027.06) 
-- **Ph.D. in Artificial Intelligence**, Supervisor: Prof. Zhicheng Dou, Prof. Ji-Rong Wen  
-- GPA: **3.87/4.0**, Key Courses: Intelligent Information Retrieval (A), Machine Learning (A)
-
-###  - Nankai University  (2018.09 – 2022.06) 
-- **B.S. in Computer Science**, GPA: **91.64/100**, Rank: **2/116**
-- CET-6: 538, CET-4: 585
-
----
-
 # 📚 Publications
 
 
@@ -89,6 +77,18 @@ S Xiao*, Y Wang*, J Zhou*, **H Yuan***, X Xing, R Yan, S Wang, T Huang, Z Liu
 ### - **VILE: Block-Aware Visual Enhanced Document Retrieval** | [Paper](https://dl.acm.org/doi/10.1145/3583780.3615107) | *CIKM 2023*  
 **H Yuan**, Z Dou, Y Zhou, Y Guo, JR Wen  
 > Proposes a dense retrieval model that fuses visual and textual signals to improve web page understanding.
+
+---
+
+# 🎓 Education
+
+### - Renmin University of China  (2022.09 – 2027.06) 
+- **Ph.D. in Artificial Intelligence**, Supervisor: Prof. Zhicheng Dou, Prof. Ji-Rong Wen  
+- GPA: **3.87/4.0**, Key Courses: Intelligent Information Retrieval (A), Machine Learning (A)
+
+###  - Nankai University  (2018.09 – 2022.06) 
+- **B.S. in Computer Science**, GPA: **91.64/100**, Rank: **2/116**
+- CET-6: 538, CET-4: 585
 
 ---
 
