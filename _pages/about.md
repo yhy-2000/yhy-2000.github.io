@@ -16,8 +16,6 @@ redirect_from:
 # 💃🏻 About Me
 
 - 🎓 I am a **Ph.D. candidate** at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), supervised by Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and Prof. [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ).  
-- 🔬 Currently, I am a **research intern** at **Beijing Academy of Artificial Intelligence (BAAI)**, mentored by [Zheng Liu](https://zhengliu101.github.io/). I sincerely appreciate their meticulous and insightful guidance~ 
-- 🎓 I received my bachelor's degree from **Nankai University** in 2022.  
 -  **Research Interests**: <span style="color:#c1121f">Retrieval-augmented generation</span>, <span style="color:#c1121f">Multi-modal retrieval</span>, <span style="color:#c1121f">Long video understanding</span>  
 
 ---
@@ -96,7 +94,10 @@ S Xiao*, Y Wang*, J Zhou*, **H Yuan***, X Xing, R Yan, S Wang, T Huang, Z Liu
 
 # 💼 Experiences
 
-- *2024.12 – Present*, **Research Intern**, BAAI  
+- *2024.09 – 2025.12*, **Visiting Research Fellow**, University of Trento🇮🇹
+  Supervised by [Nicu Sebe](https://disi.unitn.it/~sebe/)
+
+- *2024.05 – 2025.09*, **Research Intern**, BAAI  
   Supervised by [Zheng Liu](https://zhengliu101.github.io/)
 
 - *2024.02 – 2024.04*, **Research Intern**, Microsoft Research Asia  
