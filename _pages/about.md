@@ -42,7 +42,7 @@ redirect_from:
 
 # 🎓 Education
 
-### - Renmin University of China  (2022.09 – 2027.06 (Expected)) 
+### - Renmin University of China  (2022.09 – 2027.06) 
 - **Ph.D. in Artificial Intelligence**, Supervisor: Prof. Zhicheng Dou, Prof. Ji-Rong Wen  
 - GPA: **3.87/4.0**, Key Courses: Intelligent Information Retrieval (A), Machine Learning (A)
 
