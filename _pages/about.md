@@ -16,7 +16,7 @@ redirect_from:
 # 💃🏻 About Me
 
 - 🎓 I am a **Ph.D. candidate** at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), supervised by Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and Prof. [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ).  
--  **Research Interests**: <span style="color:#c1121f">Retrieval-augmented generation</span>, <span style="color:#c1121f">Multi-modal retrieval</span>, <span style="color:#c1121f">Long video understanding</span>  
+-  **Research Interests**: Video is the richest window into our dynamic world. My research is driven by the vision of enabling AI to perceive, interpret, and interact with this world through \textbf{long video understanding}, \textbf{multi-modal understanding}, and \textbf{agentic reasoning}. I aim to build intelligent systems capable of digesting hours of visual streams, reasoning over complex temporal narratives, and pinpointing intricate moments with human-like intuition.
 
 ---
 
